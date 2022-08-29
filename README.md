@@ -1,6 +1,8 @@
 # SalesInvoiceProject
 Language: Java
+
 Desktop application
+
 Showing function of sales Invoice project from this link: 
 https://drive.google.com/file/d/1Ke-JcqGgfn-Y6yJtKpDbrIHUJMblJpSW/view?usp=sharing
 
