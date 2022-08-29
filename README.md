@@ -1,7 +1,9 @@
 # SalesInvoiceProject
 Language: Java
 Desktop application
-Showing function of sales Invoice project from this link: https://drive.google.com/file/d/1Ke-JcqGgfn-Y6yJtKpDbrIHUJMblJpSW/view?usp=sharing
+Showing function of sales Invoice project from this link: 
+https://drive.google.com/file/d/1Ke-JcqGgfn-Y6yJtKpDbrIHUJMblJpSW/view?usp=sharing
+
 The Project Contains CSV files for Headers and Items, So you can use them to test the project
 
 The Project Functions:
